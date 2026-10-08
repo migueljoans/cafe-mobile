@@ -1,4 +1,3 @@
-
 // ==========================================================
 // dados.js - o cardápio da cafeteria
 // Um ARRAY (lista) de OBJETOS. Cada objeto é um produto.
